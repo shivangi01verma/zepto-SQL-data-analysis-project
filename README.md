@@ -1,4 +1,4 @@
-# E-Commerce Pricing & Product Analysis
+# E-Commerce (Zepto) Pricing & Product Analysis
 
 ## 📊 Project Overview
 
